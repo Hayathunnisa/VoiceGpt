@@ -5,7 +5,7 @@ import speech_recognition as sr
 import threading
 
 # Assign OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Initialize text-to-speech engine
 engine = pyttsx3.init()
